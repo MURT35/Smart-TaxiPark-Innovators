@@ -1,8 +1,8 @@
 # Smart TaxiPark Portfolio
 
 ## Live Demo
-- GitHub Pages URL: [Paste deployed link here]
-- Repository URL: [Paste repo link here]
+- GitHub Pages URL: [https://smarttaxipark.netlify.app/]
+- Repository URL: [https://github.com/MURT35/Smart-TaxiPark-Innovators.git]
 
 ## Team Roster
 - **Murtada Othman Yosof Abdalrahman (25/30250)** – Project Manager  
