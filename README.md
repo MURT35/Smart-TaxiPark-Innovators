@@ -1,7 +1,7 @@
 # Smart TaxiPark Portfolio
 
 ## Live Demo
-- GitHub Pages URL: [https://smarttaxipark.netlify.app/]
+- GitHub Pages URL: [https://murt35.github.io/Smart-TaxiPark-Innovators/]
 - Repository URL: [https://github.com/MURT35/Smart-TaxiPark-Innovators.git]
 
 ## Team Roster
