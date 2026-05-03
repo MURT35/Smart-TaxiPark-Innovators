@@ -1,8 +1,8 @@
 # Smart TaxiPark Portfolio
 
 ## Live Demo
-- GitHub Pages URL: [https://murt35.github.io/Smart-TaxiPark-Innovators/]
-- Repository URL: [https://github.com/MURT35/Smart-TaxiPark-Innovators.git]
+- GitHub Pages URL: [https://MURT35.github.io/Smart-TaxiPark-Innovators/](https://MURT35.github.io/Smart-TaxiPark-Innovators/)
+- Repository URL: [https://github.com/MURT35/Smart-TaxiPark-Innovators](https://github.com/MURT35/Smart-TaxiPark-Innovators)
 
 ## Team Roster
 - **Murtada Othman Yosof Abdalrahman (25/30250)** – Project Manager  
@@ -24,5 +24,6 @@ Passengers gain transparency, families gain peace of mind, and the community ben
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd smart-taxipark
+   git clone https://github.com/MURT35/Smart-TaxiPark-Innovators.git
+   cd Smart-TaxiPark-Innovators
+
